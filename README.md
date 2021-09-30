@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+Mona is a GitHub app built with probot to help in learning
 ## What it does
 
-FEATURES PLACEHOLDER
+Hi I'm a GitHub learning app & I'm here to help your journey to learn and excel in the various topics you learn. 
 
 ## Getting started
 
